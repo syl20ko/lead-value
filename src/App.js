@@ -1,6 +1,8 @@
 // src/App.js
 import React, { useState } from "react";
 import HeaderTitle from "./components/HeaderTitle";
+import "./App.css";
+
 
 function LeadCalculator() {
   // Définir les états pour chaque champ du tableau
